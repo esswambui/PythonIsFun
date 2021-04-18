@@ -1,3 +1,4 @@
+#Start the program
 print ("\t\t\t Multiplication Table\n")
 
 for i in range (1,10):
